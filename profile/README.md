@@ -18,6 +18,10 @@
 
 ## Management
 
+| Description | System | Link | Status |
+|-|-|-|-|
+| InfluxdB Management | Python | [Repository](https://github.com/wavetrax-by-dramco/Influxdb-Scripts-Management) | |
+| InfluxdB BackUp | Python | [Repository](https://github.com/wavetrax-by-dramco/Influxdb-Scripts-BackUp) | |
 
 
 

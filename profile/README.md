@@ -5,9 +5,8 @@
 | Description | System | Link | Status |
 |-|-|-|-|
 | Radar LibreVNA | Linux | [Repository](https://github.com/wavetrax-by-dramco/Radar-LibreVNA-Firmware) | ✅ |
-| Radar LibreVNA [Antarctica] | Linux | [Repository](https://github.com/wavetrax-by-dramco/Radar-LibreVNA-Firmware-Antarctica) | ✅ |
 | Radar P5024 | Linux | [Repository](https://github.com/wavetrax-by-dramco/Radar-P5024-Firmware) | ✅ |
-| Radar LibreVNA Antarctica | Linux | [Repository](https://github.com/wavetrax-by-dramco/) | 🚧 |
+| Radar LibreVNA [Antarctica] | Linux | [Repository](https://github.com/wavetrax-by-dramco/Radar-LibreVNA-Firmware-Antarctica) | 🚧 |
 | API P5024 | Windows | [Repository](https://github.com/wavetrax-by-dramco/API-WIN-P5024A-Firmware) | ✅ |
 | Logger CR1000X | Linux | [Repository](https://github.com/wavetrax-by-dramco/Logger-CR1000X-Firmware) | ✅ |
 | Camera Survey3 Pro | Linux | [Repository](https://github.com/wavetrax-by-dramco/Camera-Survey3-PRO) | |
